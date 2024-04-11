@@ -17,7 +17,6 @@ print and end the program
 
 ## Program:
 ```
-program to find the solution for the given linear equation
 Developed by:KAVYA T
 RegisterNumber:2305003004
 ```
